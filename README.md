@@ -4,6 +4,7 @@
 
 ## 在线访问
 
+- Vercel：<https://little-prince-b612.vercel.app/>
 - GitHub Pages：<https://YI260602.github.io/little-prince-b612/>
 - 本地：直接双击 `index.html` 即可打开，不需要服务器或网络。
 
